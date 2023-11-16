@@ -1,6 +1,6 @@
 # House-Price-Prediction-and-Analysis
 
-The prediction of house prices is a fundamental taskin the real estate industry, 
+The prediction of house prices is a fundamental task in the real estate industry, 
 as it helps buyers, sellers, and real estate agents to make informed decisions.
 I have created a machine learning model for house price prediction using a dataset of housing market data. 
 The model is trained on a variety of features such as location, 
